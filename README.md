@@ -11,17 +11,20 @@ This space presented my ability to extract the insights from real-world datasets
 Data-Analysis-and-Visualization/
 │
 ├── Sales-Data-Analysis/
+│   ├── result/
+│   │   ├── monthly_sales_trend.png
+│   │   └── top_selling_categories.png
 │   ├── dataset.csv
 │   ├── analysis.ipynb
-│   ├── analysis.py
 │   └── README.md
 │
 ├── Loan-Default-Prediction/
 │   ├── dataset.csv
 │   ├── analysis.ipynb
-│   ├── analysis.py
+│   ├── loan default prediction.png
 │   └── README.md
 │
+├── LICENSE
 └── README.md
 ```
 
